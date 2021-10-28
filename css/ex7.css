@@ -1,0 +1,22 @@
+#p1{
+    color: rgb(93, 69, 248);
+}
+#span1{
+color: orange;
+text-decoration: underline;
+}
+#span2{
+    color: rgb(165, 108, 1);
+    text-decoration: underline;
+    background-color: yellow;
+    }
+    #li1{
+        color: blue;
+    }
+    #span3{
+        color: red;
+        text-decoration: underline;
+    }
+    #li2{
+        font-weight: bold;
+    }

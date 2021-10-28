@@ -1,0 +1,21 @@
+div h1{
+    color: orange;
+}
+div h2{
+    position: absolute;
+    right: 0;
+    font-weight: bold;
+    font-size:40px ;
+}
+#p1{
+    font-size: 25px;
+    padding-top: 90px;
+    font-family: Comic Sans MS;
+}
+#p2{
+    font-size: 25px;
+    position: absolute;
+    right: 0;
+    font-family:Courier	
+    ;
+}

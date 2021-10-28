@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(235, 118, 235);
+}
+.divs{
+    width:20%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 20px;
+}
+
+hr{
+    border: 1px solid rgb(0, 0, 0);
+}
+.div{
+    transform: translate(0%, 5%);
+    width:165%;
+    height: 50%;
+}
+
+.scroller{
+   height: 100px;
+    overflow-y: scroll;
+    scrollbar-color: red green;
+    scrollbar-width: thin;
+    width: 100%;
+}

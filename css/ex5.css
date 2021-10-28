@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(245, 230, 210);
+}
+div{
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.div1{
+    border-style: groove;
+    padding: 10px; 
+    margin-bottom: 10px;
+}
+.div2{
+    border-style: dotted;
+    padding: 10px;
+    margin-bottom: 10px;
+
+
+}
+.div3{
+    border-style: groove;
+    padding: 10px;
+    color:darkorchid;
+
+}
+#p{
+    border-style: dotted;
+    border-color: red;
+
+}
+.quls{
+    background-color: rgb(235, 228, 130);
+}
+.ipsum{
+    background-color:rgb(252, 175, 82);
+}
